@@ -135,9 +135,9 @@
 
           <div class='col-md-3 hover'>
             <div class='card border-success'>
-              <div class='card-header' style='background-color: rgb(0 0 0 / 8%); text-align: center;'>Hulk Model</div>
+              <div class='card-header' style='background-color: rgb(0 0 0 / 8%); text-align: center;'>Pokemon Go</div>
               <div class='card-body'>
-                <p class='card-text'><img src="img/hulk.png" class="img-fluid rounded"
+                <p class='card-text'><img src="img/pokemon1.jpg" class="img-fluid rounded"
                     style="height:13rem; width:100%" /></p>
               </div>
               <div class='card-footer' style='background-color: rgb(0 0 0 / 8%);'>
@@ -205,9 +205,9 @@
 
           <div class='col-md-3 hover'>
             <div class='card border-success'>
-              <div class='card-header' style='background-color: rgb(0 0 0 / 8%); text-align: center;'>Batman Model</div>
+              <div class='card-header' style='background-color: rgb(0 0 0 / 8%); text-align: center;'>Pokemon Fair</div>
               <div class='card-body'>
-                <p class='card-text'><img src="img/mô hình batman.jfif" class="img-fluid rounded"
+                <p class='card-text'><img src="img/pokemon vàng.jpg" class="img-fluid rounded"
                     style="height:13rem; width:100%" /></p>
               </div>
               <div class='card-footer' style='background-color: rgb(0 0 0 / 8%);'>
