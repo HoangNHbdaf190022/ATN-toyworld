@@ -7,6 +7,6 @@
     <title>Detail</title>
 </head>
 <body>
-    <img src="./404Page.jpg" alt="" style="width: 100%; height:800px; box-sizing: border-box;"></img>
+    <img src="img/404Page.jpg" alt="" style="width: 100%; height:800px; box-sizing: border-box;"></img>
 </body>
 </html>
