@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UniIfo - Đăng Nhập</title>
+    <title>ATN login</title>
 </head>
 <body>
     <style>
@@ -30,7 +30,7 @@ background: linear-gradient(to top, #16222A , #3A6073); /* W3C, IE 10+/ Edge, Fi
 }
 
 .container {
-	background:rgba(58,63,68,0.5);
+  background:rgba(58,63,68,0.5);
   border-radius: 5px;
   box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
   width:450px;
@@ -47,10 +47,10 @@ background: linear-gradient(to top, #16222A , #3A6073); /* W3C, IE 10+/ Edge, Fi
 }
 
 .login-item {
-	color: #ffff;
-	padding:25px 25px 0;
-	margin: 20px 20px 0;	
-	border-radius: 3px;
+  color: #ffff;
+  padding:25px 25px 0;
+  margin: 20px 20px 0;	
+  border-radius: 3px;
 }
 
 input {
@@ -137,32 +137,30 @@ input {
 .text--center {
   text-align: center;
 }
-
-
-    </style>
+</style>
     <script src="https://use.typekit.net/rjb4unc.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 <div class="container">
-    <div class="logo"><h1>Đăng Nhập</h1></div>
+    <div class="logo"><h1>SIGN IN</h1></div>
     <div class="login-item">
       <form action="" method="post" class="form form-login">
         <div class="form-field">
-          <label class="user" for="login-username"><span class="hidden">Tài Khoản</span></label>
-          <input id="login-username" type="text" class="form-input" placeholder="Tài Khoản" required>
+          <label class="user" for="login-username"><span class="hidden">Account</span></label>
+          <input id="login-username" type="text" class="form-input" placeholder="Account" required>
         </div>
 
         <div class="form-field">
-          <label class="lock" for="login-password"><span class="hidden">Mật Khẩu</span></label>
-          <input id="login-password" type="password" class="form-input" placeholder="Mật Khẩu" required>
+          <label class="lock" for="login-password"><span class="hidden">Password</span></label>
+          <input id="login-password" type="password" class="form-input" placeholder="Password" required>
         </div>
 
         <div class="form-field">
-          <input type="submit" value="đăng nhập">
+          <input type="submit" value="Login">
         </div>
 
         <div class="form-field" >
-          <a href="index.htm" style="text-align: center; color: #eee; text-decoration: none;"> Quay lại</a>
+          <a href="index.htm" style="text-align: center; color: #eee; text-decoration: none;"> Back</a>
         </div>
       
       </form>
