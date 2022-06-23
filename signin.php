@@ -160,7 +160,7 @@ input {
         </div>
 
         <div class="form-field" >
-          <a href="index.htm" style="text-align: center; color: #eee; text-decoration: none;"> Back</a>
+          <a href="index.php" style="text-align: center; color: #eee; text-decoration: none;"> Back</a>
         </div>
       
       </form>
