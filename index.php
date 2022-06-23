@@ -67,7 +67,7 @@
           <input name="input" required class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
           <button name="search" class="btn btn-outline-danger" type="submit"><b>Search</b></button>
         </form>
-        <a style='margin-left: 1%;' href='signin.html' class='btn btn-warning btn-outline-success'>LogIn</a>
+        <a style='margin-left: 1%;' href='signin.php' class='btn btn-warning btn-outline-success'>LogIn</a>
 
       </div>
     </div>
