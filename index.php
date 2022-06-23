@@ -44,7 +44,7 @@
   <!-- <nav class="navbar navbar-dark bg-dark"> -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.htm"><strong>ATN</strong></a>
+      <a class="navbar-brand" href="index.php"><strong>ATN</strong></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -52,7 +52,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.htm">Home Page</a>
+            <a class="nav-link active" aria-current="page" href="index.php">Home Page</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="https://www.facebook.com/hoang.nguyenhuu.7330763/"
@@ -231,7 +231,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 pr-md-5">
-          <a href="#" class="footer-site-logo d-block mb-4">ATN</a>
+          <a href="index.php" class="footer-site-logo d-block mb-4">ATN</a>
           <p>ATN is a Vietnamese company that is selling toys to teenagers in many provinces across Vietnam.
             The company has sales of over $500,000/year. Currently, each shop has its own database to store items
             deals exclusively for that shop. Each store must send sales data to the management monthly and
@@ -240,11 +240,11 @@
         </div>
         <div class="col-md">
           <ul class="list-unstyled nav-links">
-            <li><a href="index.htm">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="https://btec.fpt.edu.vn/">About Us</a></li>
             <li><a href="#">Portfolio</a></li>
             <li><a href="#">Services</a></li>
-            <li><a href="https://www.facebook.com/hoang.nguyenhuu.7330763/">Contact</a></li>
+            <li><a href="https://www.facebook.com/hoang.nguyenhuu01/">Contact</a></li>
           </ul>
         </div>
         <div class="col-md">
